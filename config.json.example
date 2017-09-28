@@ -1,0 +1,7 @@
+{
+    "API_SERVER": "10.94.87.1",
+    "API_PORT": 8708,
+    "USE_SSL": false,
+    "USERNAME": "",
+    "PASSWORD": ""
+}

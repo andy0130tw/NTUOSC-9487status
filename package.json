@@ -1,0 +1,30 @@
+{
+  "name": "ntuosc-9487status",
+  "version": "0.0.1",
+  "description": "Wow, you are there!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andy0130tw/NTUOSC-9487status.git"
+  },
+  "keywords": [
+    "mikrotik",
+    "router",
+    "ntuosc"
+  ],
+  "author": "Andy Pan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andy0130tw/NTUOSC-9487status/issues"
+  },
+  "homepage": "https://github.com/andy0130tw/NTUOSC-9487status#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "mikronode-ng": "^1.0.11"
+  }
+}

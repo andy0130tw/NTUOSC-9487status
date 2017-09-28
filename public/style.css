@@ -1,0 +1,25 @@
+.container {
+    margin: auto;
+    max-width: 992px;
+}
+
+ul li {
+    line-height: 1.6;
+}
+
+ul li > .hostname {
+    font-size: 1.4rem;
+    font-weight: 500;
+    font-family: monospace;
+}
+
+ul li.owner {
+    color: #1b5e20;
+    background-color: #e8f5e9;
+}
+
+ul li.owner:after {
+    content: ' ← You are here';
+    color: #666;
+    padding-left: 4em;
+}
